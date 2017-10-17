@@ -1,4 +1,7 @@
-# BrainFuck-Interpreter
+# BrainFuck-Interpreter-CSharp
 
 I wrote a C# BrainFuck interpreter because I was bored.
-Pls improve.
+All interpreters in this series:
+
+- [C#](https://github.com/AeonLucid/BrainFuck-Interpreter-CSharp)
+- [PHP](https://github.com/AeonLucid/BrainFuck-Interpreter-PHP)
